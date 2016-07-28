@@ -38,4 +38,4 @@ This is a just a regular table of comparisons and by web based latex implementat
 
 ## What I want
 
-It'd be nice if we were to use the formats of writing in Scholarly markdown and without the hassles of going through rounds of pushing to Pandoc > LaTeX and then render on the web exactly as it is and push to every journal or blogs and get in responses. This is also topical because in addition to texts and tables and figures, and citations, we also work with codes and equations at least in the field where I write (that is in Epidemiology Biostats) and so code blocks etc are important[@Armstrong_2015]
+It'd be nice if we were to use the formats of writing in Scholarly markdown and without the hassles of going through rounds of pushing to Pandoc > LaTeX and then render on the web exactly as it is and push to every journal or blogs and get in responses. This is also topical because in addition to texts and tables and figures, and citations, we also work with codes and equations at least in the field where I write (that is in Epidemiology Biostats) and so code blocks etc are important \cite{Armstrong_2015}
