@@ -50,6 +50,6 @@ So, here's would be really nice:
 5. Sync-ing using wellcrafted markdown tools and pull from all over the web (there are excellent web based markdown editors such as [Madoko](http://madoko.net) and [classeur.io](http://classeur.io)
 6. Then, when I share my document, my collaborators can edit or comment on the document using whatever format they prefer and even if they do not need to create an account, they can join in. 
 
-![Doing Stuff Workflow](doing_stuff - Workflows.png)
+
 
 
