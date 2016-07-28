@@ -1,0 +1,1 @@
+A series of thoughts in the form of musings on writing on the web and latex. 
