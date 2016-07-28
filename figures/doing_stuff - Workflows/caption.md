@@ -1,1 +1,1 @@
-Replace this text with your caption
+Here's a conceptual representation of the workflow
